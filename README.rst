@@ -28,6 +28,7 @@ And I am capable of a little developing with the arduino IDE and have a test set
 So I will try to contribute what I have figured out during the last week printing this masterpiece of engineering.
 Where you get the parts from is probably very dependent from where you live. I am coming from switzerland which is therfore the country where I try to buy my parts.
 But to be honest, lots of the things are directly shipped from china anyways.
+This is also the reason you find metric values in this repository.
 
 
 Structure
