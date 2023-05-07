@@ -11,7 +11,9 @@ https://www.thingiverse.com/thick8/designs
 https://www.thingiverse.com/thing:5230017
 
 All credits go to Mr. John Muldoon, I am so impressed with his design, I am dedicated to build it.
-Also a big shoutout to the people in the comments on thingiverse.
+Also a big shoutout to the people in the comments on thingiverse. They provide useful information, for example a link to a spring can be found there.
+So the link to the spring is originated from **Thomas Jahn** https://www.thingiverse.com/energetics/designs
+
 
 Intention
 #########
@@ -43,10 +45,12 @@ README Link tbd
 README Link tbd
 
 **Code**
-The code itself of course, happy to share something
+The code itself of course, happy to share it.
+It is not much right now anyway and I believe, this is some very basic stuff. Not hard to change and adapt.
 
 
 Contribute
 ##########
 
 If you like to contribute with any information you gathered, I am happy to get a pull request.
+Or if you find any problematic information provided in this repository, please feel free to open an Issue https://github.com/claudio-walser/collective/issues
