@@ -36,7 +36,7 @@ Structure
 
 I will to somehow split this up in a way which makes sense.
 
-**A list of all links that John already provides **
+**A list of all links that John already provides**
 README Link tbd
 
 **Hardware and Parts**
