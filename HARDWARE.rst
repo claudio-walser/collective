@@ -9,18 +9,24 @@ You will need two potentiometer, with two different shaft length. The one for th
 The longer 25 (mine did not arrive yet, probably to long but you can shorten this one)
 
 **Collective**
+
 .. container:: responsive-image
 
     .. image:: https://raw.githubusercontent.com/claudio-walser/collective/main/hardware/images/potentiometer-collective.jpg
         :alt: potentiometer collective - 6*15 mm shaft
 
 **Throttle**
+
 .. container:: responsive-image
 
     .. image:: https://raw.githubusercontent.com/claudio-walser/collective/main/hardware/images/potentiometer-throttle.jpg
         :alt: potentiometer collective - 6*15 mm shaft
 
+Test
 
+.. code-block:: bash
+
+    echo "Hello World"
 
 
 
