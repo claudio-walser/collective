@@ -31,9 +31,8 @@ ________
 
 I do believe this are standard skateboard bearings. Here as well, I am not quite sure since mine did not arrive yet.
 
-.. container:: responsive-image
-
     .. image:: https://raw.githubusercontent.com/claudio-walser/collective/main/hardware/images/bearings.jpeg
+        :width: 300
         :alt: bearings 22/10/7
 
 
