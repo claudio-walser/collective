@@ -1,11 +1,11 @@
 Hardware Parts
-===
+==============
 
 Measurements
-###
+############
 
 Potentiometer
-___
+_____________
 
 You will need two potentiometer, with two different shaft length. The one for the collective, built into the base, is the short 15mm shaft.
 The longer 25mm shaft is used for the throttle. Mine did not arrive yet, the shaft might probably be too long. Cut/file some milimeters of is not an issue, I guess.
@@ -27,7 +27,7 @@ The longer 25mm shaft is used for the throttle. Mine did not arrive yet, the sha
 
 
 Bearings
-___
+________
 
 I do believe this are standard skateboard bearings. Here as well, I am not quite sure since mine did not arrive yet.
 
@@ -41,7 +41,7 @@ I do believe this are standard skateboard bearings. Here as well, I am not quite
 
 
 Alu Pipe
-___
+________
 
 This measurements are somehow very hard to find in switzerland.
 
@@ -71,7 +71,7 @@ This measurements are somehow very hard to find in switzerland.
     - TBD
 
 Electronic Parts
-===
+================
 
 - Teensy LC
     - Very easy to find in your favorite electronic store.
