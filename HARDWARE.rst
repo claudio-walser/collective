@@ -16,6 +16,7 @@ The longer 25mm shaft is used for the throttle. Mine did not arrive yet, the sha
 .. container:: responsive-image
 
     .. image:: https://raw.githubusercontent.com/claudio-walser/collective/main/hardware/images/potentiometer-collective.jpg
+        :width: 400
         :alt: potentiometer collective - 6*15 mm shaft
 
 **Throttle**
@@ -23,6 +24,7 @@ The longer 25mm shaft is used for the throttle. Mine did not arrive yet, the sha
 .. container:: responsive-image
 
     .. image:: https://raw.githubusercontent.com/claudio-walser/collective/main/hardware/images/potentiometer-throttle.jpg
+        :width: 400
         :alt: potentiometer collective - 6*25 mm shaft
 
 
@@ -34,7 +36,7 @@ I do believe this are standard skateboard bearings. Here as well, I am not quite
 .. container:: responsive-image
 
     .. image:: https://raw.githubusercontent.com/claudio-walser/collective/main/hardware/images/bearings.jpeg
-        :width: 500
+        :width: 400
         :alt: bearings 22/10/7
 
 
@@ -46,6 +48,7 @@ This measurements are somehow very hard to find in switzerland.
 .. container:: responsive-image
 
     .. image:: https://raw.githubusercontent.com/claudio-walser/collective/main/hardware/images/pipe.jpeg
+        :width: 400
         :alt: bearings 22/10/7
 
 
