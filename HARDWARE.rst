@@ -40,6 +40,19 @@ I do believe this are standard skateboard bearings. Here as well, I am not quite
 
 
 
+Alu Pipe
+___
+
+This measurements are somehow very hard to find in switzerland.
+
+.. container:: responsive-image
+
+    .. image:: https://raw.githubusercontent.com/claudio-walser/collective/main/hardware/images/pipe.jpeg
+        :alt: bearings 22/10/7
+
+
+
+
 
 
 
