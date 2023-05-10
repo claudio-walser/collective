@@ -1,6 +1,19 @@
 Hardware Parts
 ==============
 
+
+Potentiometer
+_____________
+
+You will need two potentiometer, with two different shaft length. The one for the collective, built into the base, is the short 15mm shaft.
+The longer 25 (mine did not arrive yet, probably to long but you can shorten this one)
+
+
+.. container:: responsive-image
+    .. image:: ./hardware/images/potentiometer-collective
+        :alt: potentiometer collective - 6*15 mm shaft
+
+
 - Aluminium pipe
     - Outer Diameter 32mm / Inner Diameter 29mm / Thickness 1.5mm
 - Bearings
