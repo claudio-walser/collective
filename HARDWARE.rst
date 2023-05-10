@@ -10,7 +10,8 @@ The longer 25 (mine did not arrive yet, probably to long but you can shorten thi
 
 
 .. container:: responsive-image
-    .. image:: https://raw.githubusercontent.com/claudio-walser/collective/main/hardware/images/potentiometer-collective.jpg
+
+    .. image:: ./hardware/images/potentiometer-collective
         :alt: potentiometer collective - 6*15 mm shaft
 
 
