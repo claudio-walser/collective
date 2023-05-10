@@ -1,12 +1,14 @@
 Hardware Parts
-==============
+===
 
+Measurements
+###
 
 Potentiometer
-_____________
+___
 
 You will need two potentiometer, with two different shaft length. The one for the collective, built into the base, is the short 15mm shaft.
-The longer 25 (mine did not arrive yet, probably to long but you can shorten this one)
+The longer 25mm shaft is used for the throttle. Mine did not arrive yet, the shaft might probably be too long. Cut/file some milimeters of is not an issue, I guess.
 
 **Collective**
 
@@ -20,7 +22,27 @@ The longer 25 (mine did not arrive yet, probably to long but you can shorten thi
 .. container:: responsive-image
 
     .. image:: https://raw.githubusercontent.com/claudio-walser/collective/main/hardware/images/potentiometer-throttle.jpg
-        :alt: potentiometer collective - 6*15 mm shaft
+        :alt: potentiometer collective - 6*25 mm shaft
+
+
+
+Bearings
+___
+
+I do believe this are standard skateboard bearings. Here as well, I am not quite sure since mine did not arrive yet.
+
+.. container:: responsive-image
+
+    .. image:: https://raw.githubusercontent.com/claudio-walser/collective/main/hardware/images/bearings.jpeg
+        :alt: bearings 22/10/7
+
+
+
+
+
+
+
+
 
 
 
@@ -36,7 +58,7 @@ The longer 25 (mine did not arrive yet, probably to long but you can shorten thi
     - TBD
 
 Electronic Parts
-================
+===
 
 - Teensy LC
     - Very easy to find in your favorite electronic store.
