@@ -4,6 +4,7 @@ Hardware Parts
 Measurements
 ############
 
+
 Potentiometer
 _____________
 
@@ -25,7 +26,6 @@ The longer 25mm shaft is used for the throttle. Mine did not arrive yet, the sha
         :alt: potentiometer collective - 6*25 mm shaft
 
 
-
 Bearings
 ________
 
@@ -35,9 +35,6 @@ I do believe this are standard skateboard bearings. Here as well, I am not quite
 
     .. image:: https://raw.githubusercontent.com/claudio-walser/collective/main/hardware/images/bearings.jpeg
         :alt: bearings 22/10/7
-
-
-
 
 
 Alu Pipe
@@ -51,24 +48,11 @@ This measurements are somehow very hard to find in switzerland.
         :alt: bearings 22/10/7
 
 
+Screws
+______
 
+TBD
 
-
-
-
-
-
-
-- Aluminium pipe
-    - Outer Diameter 32mm / Inner Diameter 29mm / Thickness 1.5mm
-- Bearings
-    - Outer Diameter 22mm / Inner Diameter 10mm / Width 7mm
-- Spring
-    - Inner Diameter 14mm / Right End Length max 6cm / Lower End Length max 5cm
-    - The thickness, therfore the strength is probably different for different people.
-      This is the spring which should work very well. The spring should be straight, to have load in the down position. https://www.sodemann-federn.de/t095-090-453r
-- Screws
-    - TBD
 
 Electronic Parts
 ================
