@@ -34,7 +34,7 @@ I do believe this are standard skateboard bearings. Here as well, I am not quite
 .. container:: responsive-image
 
     .. image:: https://raw.githubusercontent.com/claudio-walser/collective/main/hardware/images/bearings.jpeg
-        :width: 300
+        :width: 500
         :alt: bearings 22/10/7
 
 
